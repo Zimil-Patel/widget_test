@@ -1,16 +1,56 @@
 # widget_test
 
-A new Flutter project.
+# 1. GlassMorphism
 
-## Getting Started
+Sure, here's a short documentation for a GitHub README file based on the content from the provided website:
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# Glassmorphism
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Glassmorphism is a Flutter package that provides widgets and utilities for creating glass morphism UI designs in your Flutter applications.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Easy Integration**: Simply import the package and start using glass morphism in your Flutter apps.
+- **Customizable**: Customize the blur, opacity, and color of glass morphism widgets to match your app's design.
+- **Widgets**: Includes various glass morphism widgets such as containers, buttons, and cards.
+- **Utilities**: Additional utilities for applying glass morphism effects to existing widgets.
+
+## Installation
+
+Add `glassmorphism` to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  glassmorphism: ^1.0.0
+```
+
+Then run:
+
+```bash
+$ flutter pub get
+```
+
+## Usage
+
+Import the package:
+
+```dart
+import 'package:glassmorphism/glassmorphism.dart';
+```
+
+Now you can use glass morphism widgets and utilities in your Flutter app.
+
+```dart
+GlassContainer(
+  blur: 10,
+  opacity: 0.5,
+  color: Colors.blue,
+  child: Text("Hello, Glassmorphism!"),
+),
+```
+
+## Screenshots
+
+![glass](https://github.com/Zimil-Patel/widget_test/assets/112332000/52138088-3de1-426d-bd64-961dbde54b5b)
