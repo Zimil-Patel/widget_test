@@ -31,7 +31,7 @@ class GlassMorphismTest extends StatelessWidget {
                   const Color((0xFFFFFFFF)).withOpacity(0.5),
                 ],
               ),
-              height: 360,
+              height: 360 ,
               width: double.infinity,
               borderRadius: 2,
               linearGradient: LinearGradient(
