@@ -2,12 +2,6 @@
 
 # 1. GlassMorphism
 
-Sure, here's a short documentation for a GitHub README file based on the content from the provided website:
-
----
-
-# Glassmorphism
-
 Glassmorphism is a Flutter package that provides widgets and utilities for creating glass morphism UI designs in your Flutter applications.
 
 ## Features
