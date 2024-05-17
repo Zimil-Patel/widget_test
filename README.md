@@ -47,4 +47,5 @@ GlassContainer(
 
 ## Screenshots
 
-![glass](https://github.com/Zimil-Patel/widget_test/assets/112332000/52138088-3de1-426d-bd64-961dbde54b5b)
+<img src = "https://github.com/Zimil-Patel/widget_test/assets/112332000/52138088-3de1-426d-bd64-961dbde54b5b" height = "600" width = "280">
+
